@@ -1,0 +1,23 @@
+DWindow 800 600
+DFont src/fonts/PixelOperator8.ttf 255 255 255 12
+DRectangle RHuge 500 500 -0.01 0.01 55 50 128 0 255
+DRectangle RLargest 450 450 0.03 -0.03 50 45 255 128 0
+DCircle CHuge 550 550 0.03 -0.01 55 128 0 255
+DCircle CLargest 500 500 -0.02 0.02 50 255 128 0
+DRectangle RLarger 400 400 -0.02 0.02 45 40 0 128 255
+DCircle CLarger 450 450 0.01 0.02 45 0 128 255
+DRectangle RLarge 350 350 0.01 -0.01 40 35 128 128 128
+DCircle CLarge 400 400 0.02 -0.03 40 128 128 128
+DRectangle RMedLarge 300 300 -0.03 0.03 35 30 0 255 255
+DCircle CMedLarge 350 350 -0.03 0.01 35 0 255 255
+DRectangle RMedium 250 250 0.02 -0.02 30 25 255 0 255
+DCircle CMedium 300 300 0.01 -0.02 30 255 0 255
+DRectangle RMedSmall 200 200 -0.01 0.01 25 20 255 255 0
+DCircle CMedSmall 250 250 -0.01 0.03 25 255 255 0
+DRectangle RSmaller 150 150 0.03 -0.03 20 15 0 0 255
+DCircle CSmaller 200 200 0.03 0.02 20 0 0 255
+DRectangle RSmall 100 100 -0.02 0.02 15 10 255 0 0
+DCircle CSmall 150 150 0.02 -0.01 15 0 255 0
+DRectangle RSmallest 50 50 0.01 -0.01 10 5 0 255 0
+DCircle CSmallest 100 100 -0.01 0.01 10 255 0 0
+
